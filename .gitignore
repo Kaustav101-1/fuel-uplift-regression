@@ -1,0 +1,13 @@
+   # Data (real records stay private; sample data is regenerated with make_sample_data.py)
+   data/
+   *.xlsx
+
+   # Model outputs
+   outputs/
+   *.joblib
+
+   # Python clutter
+   __pycache__/
+   *.pyc
+   .venv/
+   venv/
